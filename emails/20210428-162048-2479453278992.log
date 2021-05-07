@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: khyati@gmail.com
+Date: Wed, 28 Apr 2021 10:50:48 -0000
+Message-ID: <161960704807.16336.790399109590507220@LAPTOP-OPOP6R23>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/NQ/altpeo-1ed9cb46fbe17745cf9feac0aed3d95a/
+
+Your username, in case you’ve forgotten: khyati
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
